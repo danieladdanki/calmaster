@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "ws": [
+    {
+      "type": "AP 37 AN 3193cccc",
+      "name": "saimohan",
+      "title": "fndksjd",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

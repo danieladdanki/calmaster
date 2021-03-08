@@ -1,0 +1,131 @@
+
+.main{
+    background-color:#F5F5F5;
+}
+.row .col.s1{
+
+    background-color:white;
+    position:absolute;
+    height: 610px;
+    width: 4%;
+}
+.btn-sch{
+    color:#F8F8FB;
+}
+.sym{
+    margin-top: 20px;
+    /* height: 100px; */
+}
+.symbol{
+    margin-top: 20px;
+}
+
+.nav-wrapper{
+    background-color: white;
+}
+.side{
+    /* background-color:teal; */
+    width: 100%;
+  
+}
+.input-field .prefix{
+    top:0rem;
+}
+.inp-hgt{
+height: 15px !important;
+}
+
+.code{
+padding:6px;
+}
+.brand-logo{
+    color:grey !important;
+}
+.row .col.s3{
+   margin-left:74px;
+}
+
+.input-field{
+    position:relative;
+    left:100px;
+}
+.holder{
+    width:250px !important;
+}
+.container{
+    margin-top:20px;
+    margin-left:80px;
+    width:1137px;
+    height:608px;   
+}
+.card-content{
+  /* margin-top:40px;  */
+  background-color:white;
+  /* width:500px; */
+  /* height:420px; */
+}
+
+.note{
+    line-height:40px;
+}
+.text12{
+    font-family:"Proxima Nova";
+    color:#585656;
+    font-weight:semibold;
+    font-size:25px;
+}
+.details{
+    font-family:"Proxima Nova";
+    color:#757575;
+    font-weight:bold;
+    font-size:20px;
+}
+.img1{
+    margin-left: 10px;
+}
+.small-card{
+    border:2px solid grey;
+    border-radius:5px;
+    box-shadow:none!important;
+    /* height:100px; */
+    width:297px;
+    margin-bottom: 123px;
+    
+}
+.img1{
+    margin-top:10px;
+}
+.num{
+    font-weight:bold;
+    font-size:30px;
+    color:teal;
+    padding-right:40px;
+    margin-top:5px;
+}
+.detail{
+    font-family:"Semibold 20px/24px Proxima Nova"; 
+    font-size:20px;
+}
+.notify{
+    color:#DcDcDc;
+}
+.profile-name{
+    font-family:'Montserrat';
+    color: #616161;
+    font-weight:normal;
+}
+.input-field .prefix.active{
+   color:black;
+}
+.ima-cir{
+    border-radius:50px;
+}
+.mi-arro{
+  top:0px;
+}
+.chev{
+margin-top: 2px;
+margin-left: 2px;
+width: 17px;
+height: 27px;
+}
